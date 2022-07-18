@@ -52,6 +52,7 @@ kullanılmalıdır. <br>
   - Keycloak (OAuth2 Security)
   - Swagger UI 
   - Intellij Idea Ultimate
+  - AutoCAD (for Diagram)
  
   ```
 
