@@ -53,7 +53,8 @@ kullanılmalıdır. <br>
   - Swagger UI 
   - Intellij Idea Ultimate
   - AutoCAD (for Diagram)
- 
+  - SOLID
+  - Exception Handle
   ```
 
  
