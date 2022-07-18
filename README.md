@@ -116,9 +116,11 @@ kullanılmalıdır. <br>
  
  ## Integration Test User Service tarafında yapıldı ve Test başarılı sonuçlandı. 
  ![7 test passed](https://user-images.githubusercontent.com/96151920/179447217-522c72b5-6af4-45ec-a8ea-7225aea22663.JPG)
+ 
+ <br><br><hr>
 
 
-# BİRAZ DA "İŞİN KEYİFLİ TARAFLARI"NA DEĞİNELİM 
+# BİRAZ DA "İŞİN KEYİFLİ TARAFI"NA DEĞİNELİM 
 
 
 ![A1](https://user-images.githubusercontent.com/96151920/179442406-8b28c5ca-7714-4044-afe9-0a0dfcd8c447.JPG)
