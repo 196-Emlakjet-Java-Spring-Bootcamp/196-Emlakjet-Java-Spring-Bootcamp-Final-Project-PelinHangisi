@@ -42,19 +42,20 @@ kullanılmalıdır. <br>
   
   ```
   - Java 17
+  - Maven
   - Java Spring Boot
-  - Git Bash
   - Postman
   - PostgreSQL
   - RabbitMQ
+  - Git Bash
   - Integration Test for User-Service
   - Eureka
   - Keycloak (OAuth2 Security)
   - Swagger UI 
-  - Intellij Idea Ultimate
-  - AutoCAD (for Diagram)
   - SOLID
   - Exception Handle
+  - Intellij Idea Ultimate
+  - AutoCAD (for Diagram)
   ```
 
  
