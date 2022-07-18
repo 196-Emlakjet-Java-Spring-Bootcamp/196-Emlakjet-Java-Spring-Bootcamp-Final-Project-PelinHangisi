@@ -2,7 +2,40 @@
 Emlakjet Spring Boot Bootcamp Final Project <br><br>
 
 
- ## PROJE KONUSU
+
+ <a href="https://dev.java/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4516a1dca56d6cc15e4102e39acf0c139cc69f220d05b9136af0dfece96a3dfd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f74722f322f32652f4a6176615f4c6f676f2e737667" alt="nodejs" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" style="max-width: 100%;"> </a> <a href="https://spring.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
+
+ 
+  ## PROJE DIAGRAM
+  
+ ![1](https://user-images.githubusercontent.com/96151920/179437421-333c13ee-64fb-4360-9a15-262254cfc81a.JPG)
+ ![222](https://user-images.githubusercontent.com/96151920/179439034-13246b18-0fab-43ef-90dc-4c8b8f920db6.JPG)
+![wedwf](https://user-images.githubusercontent.com/96151920/179439066-3ebeb2d6-decf-47d3-a8f6-9c7aac879d67.JPG)
+![4444444](https://user-images.githubusercontent.com/96151920/179439143-14d572b6-e349-421b-b9c4-a2676c23bcd7.JPG)
+
+
+ ```
+  - Java 17
+  - Maven
+  - Java Spring Boot
+  - Postman
+  - PostgreSQL
+  - RabbitMQ
+  - Git Bash
+  - Integration Test for User-Service
+  - Eureka
+  - Keycloak (OAuth2 Security)
+  - Swagger UI 
+  - SOLID
+  - Exception Handle
+  - Intellij Idea Ultimate
+  - AutoCAD (for Diagram)
+  ```
+
+
+<hr>
+
+## PROJE KONUSU
  
  Emlak İlan Sistemi
 Proje Konusu:
@@ -33,36 +66,6 @@ yapıldığında oluşturulan rapor güncellenmelidir.
 - Uygulama docker üzerinde çalışmalıdır.
 - Uygulama mikroservis mimarisi ile gerçekleştirilmeli ve haberleşmede message broker
 kullanılmalıdır. <br>
-
-
- <a href="https://dev.java/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4516a1dca56d6cc15e4102e39acf0c139cc69f220d05b9136af0dfece96a3dfd/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f74722f322f32652f4a6176615f4c6f676f2e737667" alt="nodejs" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" style="max-width: 100%;"> </a> <a href="https://spring.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a>
-
- 
-  ## PROJE DIAGRAM
-  
-  ```
-  - Java 17
-  - Maven
-  - Java Spring Boot
-  - Postman
-  - PostgreSQL
-  - RabbitMQ
-  - Git Bash
-  - Integration Test for User-Service
-  - Eureka
-  - Keycloak (OAuth2 Security)
-  - Swagger UI 
-  - SOLID
-  - Exception Handle
-  - Intellij Idea Ultimate
-  - AutoCAD (for Diagram)
-  ```
-
- 
- ![1](https://user-images.githubusercontent.com/96151920/179437421-333c13ee-64fb-4360-9a15-262254cfc81a.JPG)
- ![222](https://user-images.githubusercontent.com/96151920/179439034-13246b18-0fab-43ef-90dc-4c8b8f920db6.JPG)
-![wedwf](https://user-images.githubusercontent.com/96151920/179439066-3ebeb2d6-decf-47d3-a8f6-9c7aac879d67.JPG)
-![4444444](https://user-images.githubusercontent.com/96151920/179439143-14d572b6-e349-421b-b9c4-a2676c23bcd7.JPG)
 
 <hr>
  
