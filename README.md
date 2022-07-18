@@ -39,6 +39,20 @@ kullanılmalıdır. <br>
 
  
   ## PROJE DIAGRAM
+  
+  ```
+  - Java 17
+  - Java Spring Boot
+  - Git Bash
+  - Postman
+  - PostgreSQL
+  - RabbitMQ
+  - Eureka
+  - Keycloak (OAuth2 Security)
+  - Swagger UI 
+  - Intellij Idea Ultimate
+ 
+  ```
 
  
  ![1](https://user-images.githubusercontent.com/96151920/179437421-333c13ee-64fb-4360-9a15-262254cfc81a.JPG)
