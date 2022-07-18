@@ -1,4 +1,4 @@
-# Final-Project Emlak İlan Sistemi
+# Emlak İlan Sistemi
 Emlakjet Spring Boot Bootcamp Final Project <br><br>
 
 
