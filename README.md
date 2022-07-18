@@ -47,6 +47,7 @@ kullanılmalıdır. <br>
   - Postman
   - PostgreSQL
   - RabbitMQ
+  - Integration Test for User-Service
   - Eureka
   - Keycloak (OAuth2 Security)
   - Swagger UI 
@@ -110,6 +111,10 @@ kullanılmalıdır. <br>
 
 
 <br><hr>
+ 
+ ## Integration Test User Service tarafında yapıldı ve Test başarılı sonuçlandı. 
+ ![7 test passed](https://user-images.githubusercontent.com/96151920/179447217-522c72b5-6af4-45ec-a8ea-7225aea22663.JPG)
+
 
 # BİRAZ DA "İŞİN KEYİFLİ TARAFLARI"NA DEĞİNELİM 
 
