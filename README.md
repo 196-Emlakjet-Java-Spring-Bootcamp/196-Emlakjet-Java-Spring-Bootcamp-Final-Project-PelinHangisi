@@ -105,3 +105,24 @@ kullanılmalıdır. <br>
 ![A4](https://user-images.githubusercontent.com/96151920/179442528-3b4505ac-1d49-414f-9004-67870e738950.JPG)
 ![A5](https://user-images.githubusercontent.com/96151920/179442548-0447e59b-f54a-41b2-818b-379129a5da9d.JPG)
 
+<br><hr>
+
+## REFERENCES
+
+* https://devops.datenkollektiv.de/banner.txt/index.html
+* https://swagger.io/docs/specification/about/
+* https://www.baeldung.com/spring-boot
+* https://medium.com/swlh/spring-boot-and-the-localdate-request-parameter-2c9cdbb085bb
+* https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f
+* https://www.youtube.com/watch?v=8PJUnnhLXiI&list=PLSVW22jAG8pBnhAdq9S8BpLnZ0_jVBj0c&index=4
+* https://medium.com/learnwithnk/best-practices-in-spring-boot-project-structure-layers-of-microservice-versioning-in-api-cadf62bd3459
+* https://cerbos.dev/blog/service-to-service-authorization-non-user-principles?gclid=CjwKCAjwwo-WBhAMEiwAV4dybY9haaIS_sZdp5ACrSpvUBkYIdjrWykBYEws3ERFd1e1kK3fnlkVtBoCyW4QAvD_BwE
+* https://www.youtube.com/c/HaydiKodlayalim
+* https://www.youtube.com/c/FolksDev
+* https://www.youtube.com/c/amigoscode
+* https://www.youtube.com/watch?v=IGUJKGskaOE&t=2886s
+* https://www.youtube.com/watch?v=YLsG0mew2dU
+* https://devops.datenkollektiv.de/banner.txt/index.html
+
+
+
