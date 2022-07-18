@@ -151,6 +151,7 @@ kullanılmalıdır. <br>
 * https://www.youtube.com/watch?v=IGUJKGskaOE&t=2886s
 * https://www.youtube.com/watch?v=YLsG0mew2dU
 * https://devops.datenkollektiv.de/banner.txt/index.html
+* https://www.mockaroo.com/
 
 
 
