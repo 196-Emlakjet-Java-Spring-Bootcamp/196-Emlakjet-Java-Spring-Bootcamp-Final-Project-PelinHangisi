@@ -62,7 +62,8 @@ kullanılmalıdır. <br>
 
 <hr>
  
- ## Proje Kullanım Akışı
+ ## Proje Kullanım Akışı <br>
+ <b>Local çalışacağı için , kullanılan SECURITY YÖNTEMİNDEN DOLAYI akışa göre hareket etmek önem arz etmektedir.R<b>
  * İlk etapta Discovery Server ayağa kaldırılır ve böylece Eureka yani bağlı olduğumuz microservislerin ayakta olanlarının portlarını rahat bir şekilde görebiliriz.
  
  
